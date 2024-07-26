@@ -1,0 +1,2 @@
+#Calculadora Simples: Crie uma calculadora que receba dois números e uma operação (+, -, *, /)
+#como entrada do usuário. Utilize match-case para realizar a operação correspondente e exibir o resultado.

@@ -1,0 +1,2 @@
+#Verificador de Dia da Semana: Escreva um programa que receba um número de 1 a 7 e exiba o dia da semana correspondente
+#(1 - Domingo, 2 - Segunda, etc.). Utilize match-case para fazer a correspondência.
